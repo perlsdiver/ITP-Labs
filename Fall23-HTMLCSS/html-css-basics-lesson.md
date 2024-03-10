@@ -2,6 +2,8 @@
 
 These are images from the slides for the HTML & CSS Basics ITP Skills Lab.
 
+![Slide 0](media/HTMLCSS-0.svg)
+
 ![Slide 1](media/HTMLCSS-1.svg)
 
 ![Slide 2](media/HTMLCSS-2.svg)
