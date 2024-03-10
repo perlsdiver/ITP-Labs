@@ -1,10 +1,10 @@
 # HOMELESSNESS & SOCIAL POLICY
-![](data:image/png;base64,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)
 
 # SSW 702.16.01
 ## SUMMER 2023
 
 **Instructor:** Ian G. Williams, LMSW (he/him/his)
+
 **Days:** Wednesdays, 6:00pm-9:30pm
 
 **Email:** igwillia [at] hunter [dot] cuny [dot] edu 
@@ -13,7 +13,7 @@
 
 **Office Hours:** By appointment
 
-**Zoom Link:** Removed from this copy
+**Zoom Link:** ~~Removed from this copy~~
 
 ## COURSE DESCRIPTION
 
@@ -21,7 +21,9 @@
 
 ## COURSE FORMAT
 
-**This is a fully online course.** You will spend three and a half hours in the virtual classroom each week _and_ one hour participating in interactive online activities via Blackboard and other online platforms.
+**This is a fully online course.**
+
+You will spend three and a half hours in the virtual classroom each week _and_ one hour participating in interactive online activities via Blackboard and other online platforms.
 
  ## CSWE EDUCATIONATIONAL POLICY AND ACCREDITATION STANDARDS & CORRESPONDING PRACTICE BEHAVIORS SSW 702 
 
@@ -45,7 +47,7 @@
 
 This online class is designed with the assumption that students will access it through either a desktop or laptop computer, and make use of various interactive tools and software platforms to ensure a high degree of interactivity. Tablets may be able to perform all functions, but access to some may be limited. A smartphone will not be able to perform all functions required for synchronous classes.
 
-## Instructor’s Policy on Using Generative AI in Your Work
+### Instructor’s Policy on Using Generative AI in Your Work
 
 *Adapted from Boris Steipe’s [The Sentient Syllabus Project](http://sentientsyllabus.org/)*
 
@@ -61,7 +63,9 @@ Generative AI (Artificial Intelligence that can produce content) is now widely a
 
 ### Completion of _all_ required readings, media, and activities
 
-This course requires that you read all assigned material, actively contribute to collaborative annotation using Hypothesis, and come to class prepared to critically engage in a discussion that is informed by your reading. *(Please note, all readings, aside from websites, are available on Blackboard, separated by week, and should be collaboratively annotated through Hypothesis).* **Suggested** readings are not required but may be of interest, and I may draw from them in class discussions.
+This course requires that you read all assigned material, actively contribute to collaborative annotation using Hypothesis, and come to class prepared to critically engage in a discussion that is informed by your reading. *(Please note, all readings, aside from websites, are available on Blackboard, separated by week, and should be collaboratively annotated through Hypothesis).*
+
+**Suggested** readings are not required but may be of interest, and we may draw from them in class discussions.
 
 You will often be given short prompts to prepare for class, such as browsing a particular website or reflecting on your experiences or perceptions of a specific topic. These do not have to be submitted but are designed to help you come to class ready for discussion. They may also help you with developing journal submissions.
 
@@ -71,31 +75,34 @@ From weeks 2-11, students will be expected to **“co-lead”** social annotatio
 
 Points to consider as social annotation co-leads:
 
-1. Central question(s) of the article/chapter - _What are the author(s) trying to answer?_
-2. Key argument(s) of the article/chapter - _What are their main claims?_
-3. Key findings of the article/chapter - _What evidence do they use? What are the implications of their findings?_
-4. Audience for the article/chapter - _Who does the imagined audience seem to be? Who do the authors seem to be in dialogue with?_
-5. Relevance to social work - _How does, or how might, this relate to social work practice? How might it not ‘fit’ with social work practice or create conflict?_
-6. Discussion questions - _What are the major points of discussion or questions that come up in annotation? What are your questions?_
-7. Links to other materials and units - _Whose other work or ideas does this connect with for you?_
+| Aspect | Questions |
+|-- |--|
+| Central question(s) of the article/chapter | _What are the author(s) trying to answer?_ |
+| Key argument(s) of the article/chapter | _What are their main claims?_|
+| Key findings of the article/chapter | _What evidence do they use?<br>What are the implications of their findings?_ |
+| Audience for the article/chapter | _Who does the imagined audience seem to be?<br>Who do the authors seem to be in dialogue with?_ |
+| Relevance to social work | _How does, or how might, this relate to social work practice? <br>How might it not ‘fit’ with social work practice or create conflict?_ |
+| Discussion questions | _What are the major points of discussion or questions that come up in annotation?<br>What are your questions?_|
+| Links to other materials and units | _Whose other work or ideas does this connect with for you?_|
 
-### Tips for co-lead/discussants
-
+#### Tips for co-lead/discussants
 - Divide up the readings; for longer readings, split sections.
-- Check-in before class and plan.
+- Check-in before class and plan ahead.
 - A presentation or slides are not necessary but might help organize your time.
-- Communicate with me if you’re having any challenges.
+- Communicate with me if you’re facing any challenges.
 
 ### Completion of journals
 
-Students are expected to keep a journal over the course of this class, to reflect on their interactions with and perceptions of the many meanings of ‘homelessness’ in their lives and field practice outside of class. It is recommended to use a digital writing tool, such as [Google Docs](https://docs.google.com/), [Obsidian](https://obsidian.md/), [LogSeq](https://logseq.com/), or a simple text application to keep regular notes.
+Students are expected to keep a journal over the course of this class, to reflect on their interactions with and perceptions of the many meanings of ‘homelessness’ in their lives and field practice outside of class. It is recommended to use a digital writing tool, such as [Google Docs](https://docs.google.com/), [Obsidian](https://obsidian.md/), [LogSeq](https://logseq.com/), or a simple text editor to keep regular notes.
 
-**Students are expected to submit two ~~three~~ entries over the course of the semester of their choosing**, uploaded through BlackBoard. Students should write roughly 750-1000 words (3-4 pages in APA formatting - double-spaced, Times New Roman font). These journals are to document the ways in which our perceptions of homelessness are mediated and structured, and to bring the information we review in class in dialogue with our everyday lives. They are also an opportunity to grapple with questions about the readings and class materials, and dig deeper into something you find particularly interesting. This gives us a chance to test and challenge what we explore in class, and an opportunity to develop a reflective writing practice independent of organizational demands and constraints. I will offer some journal prompts in BlackBoard as inspiration.
+**Students are expected to submit two ~~three~~ entries over the course of the semester of their choosing**, uploaded through BlackBoard. Students should write roughly _750-1000 words (3-4 pages in APA formatting - double-spaced, Times New Roman font)_.
+
+These journals are to document the ways in which our perceptions of homelessness are mediated and structured, and to bring the information we review in class in dialogue with our everyday lives. They are also an opportunity to grapple with questions about the readings and class materials, and dig deeper into something you find particularly interesting. This gives us a chance to test and challenge what we explore in class, and an opportunity to develop a reflective writing practice independent of organizational demands and constraints. I will offer some journal prompts in BlackBoard as inspiration.
 
 ### Completion of group paper (or digital project) & presentation
 
 #### Paper (or digital project):
-This course requires the completion of one group paper (or digital project), approximately 15 pages (or approximately 3750 words) in length. There will be seven ~~six~~ randomly assigned groups, each of which will select a topic of interest based on a specific dimension of homelessness in New York City (a sub-population, a policy, a service, an intersectional issue, a controversial issue, etc). The paper (or digital project) is due, in BlackBoard, on the morning of the final class. Students who do not turn the paper in by this date will receive an incomplete.
+This course requires the completion of one group paper (or digital project), approximately 15 pages (or approximately 3750 words) in length. There will be seven ~~six~~ randomly assigned groups, each of which will select a topic of interest based on a specific dimension of homelessness in New York City (a sub-population, a policy, a service, an intersectional issue, a controversial issue, etc). The paper (or digital project) is due, in BlackBoard, on the morning of the final class. **Students who do not turn the paper in by this date will receive an incomplete.**
 
 #### Group topic proposals
 
