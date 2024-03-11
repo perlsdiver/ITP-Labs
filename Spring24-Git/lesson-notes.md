@@ -1,17 +1,41 @@
 
 # Lesson Notes
 
-These are the instructions for the ITP Skills Lab on **Git** and **Github**, facilitated by @perlsdiver. Both are essential tools to today's digital infrastructure, and are useful to learn if you wish to develop a version control practice in you work, collaborate with others, and showcase your cumulative contributions over time. 
+These are the instructions for the ITP Skills Lab on **Git** and **Github**, facilitated by [@perlsdiver](https://www.github.com/perlsdiver). Both are essential tools to today's digital infrastructure, and are useful to learn if you wish to develop a version control practice in you work, collaborate with others, and showcase your cumulative contributions over time. 
 
 ## Lesson Plan
 
-We will use this workshop as the primary pedagogical tool, the Digital Humanities Infrastructure for Teaching Technology, developed by the Graduate Center Digital Initiatives:
+We will use this workshop as the primary pedagogical tool, the Digital Humanities Infrastructure for Teaching Technology, developed by the [Graduate Center Digital Initiatives](https://github.com/DASSL/Gradebook):
 
 https://app.dhrift.org/dynamic/?user=GC-DRI&repo=DRI24&file=git&instUser=GC-DRI&instRepo=GCDRI24Schedule
 
+## Introductions
+
+Let's take a few minutes for introductions. Each of us start with:
+
+- Name
+- Pronouns
+- Program
+- Why you registered for this lab
+- One thing you want to learn tonight
+
+## Opening Reflection
+
+Let's take a few minutes to reflect on our current practices. Let's answer these questions:
+
+- How do you store and save documents?
+- How do you keep track of changes over time?
+- How do you coordinate work with others?
+- What tools do your discipline use?
+- What tools do your advisors use?
+- What tools do you use now?
+- Are you familiar with the term "version control system"?
+- Have you ever used Git before?
+- Have you ever used GitHub before?
+
 ## Notes on Modifying Lesson Plan
 
-This lesson plan is designed with the assumption that participants are using their personal computers, or ones where they have full administrative access to install software and configure Git. It is also designed with the assumption that participants have installed Visual Studio Code onto their computers.
+This lesson plan is designed to teach you the fundamentals of Git and Github. The materials are designed with the assumption that participants are using their personal computers, or ones where they have full administrative access to install software and configure Git. It is also designed with the assumption that participants have installed Visual Studio Code onto their computers.
 
 If they do not have appropriate permissions in their computers, and do not have VS Code installed, the lesson can be modified to focus on Github, skipping the Git settings and staging a commit. In this instance, participants can use GitHub in their browser after creating a free educational account. The downside to this approach is that it may not clarify the underlying infrastructure of **Git** vs **GitHub**.
 
@@ -23,7 +47,11 @@ Some intertesting uses of GitHub that may give you some ideas. You can practice 
 
 [Tacofancy](https://github.com/dansinker/tacofancy), a collaborative taco recipe.
 
+[Mutual Aid Networks](https://github.com/groundgamela/mutual-aid-networks), a collaborative repository of local mutual aid networks.
+
 ## Other Interesting Repositories
+
+[Gradebook](https://github.com/DASSL/Gradebook), an open sourced gradebook tool for educators, designed to facilite tracking attendance.
 
 [Art of README](https://github.com/hackergrrl/art-of-readme), an entire repo and letter about writing a good README file.
 
@@ -31,22 +59,25 @@ Some intertesting uses of GitHub that may give you some ideas. You can practice 
 
 [On Missing Data Sets](https://github.com/MimiOnuoha/missing-datasets), a repository by Mimi Onuuna on data sets that are missing and the possible implications why. 
 
+[OpenCiviWiki](https://github.com/CiviWiki/OpenCiviWiki), a wiki about democratic practices and civic engagement for the Internet age.
+
 [Hacker Zines](https://github.com/apertureless/hacker-zines), a collection of old hacker zines in text files.
 
 [chatGPT Source Watch](https://github.com/0xdevalias/chatgpt-source-watch), a tracker of changes to chatGPT's code base.
 
 [DAOstack Hackers Kit](https://github.com/daostack/DAOstack-Hackers-Kit), a resource for building  Decentralized Autonomous Organization using the DAOstack platform.
 
-For more examples please explore:
+[JavaScript for Cats](https://github.com/max-mapper/javascript-for-cats), a JavaScript tutorial written for cats.
+
+[EMDR Therapy Web Application](https://github.com/nikuzz/emdr-therapy-webapp2), a repository of a web application for self-administered Eye Movement Desentivization and Reprocessing therapy.
+
+### Examples of non-code respositories
 
 [Repos Beyond Code](https://www.are.na/brendan-schlagel/repos-beyond-code)
 
 Schlagel, B. (2019). [Beyond Code: A Collection of Creative Uses of Github].(https://www.brendanschlagel.com/2018/09/28/repos-beyond-code-a-collection-of-creative-uses-of-github/)
 
-
 ## Tutorials
-
-
 
 Begelman, O. (2016). [Collaborative Writing on GitHub](https://oleb.net/blog/2016/02/collaborative-writing-on-github/)
 
@@ -63,6 +94,10 @@ Hatcher, D. (2023). [Obsidian Git For Beginners](https://dannyhatcher.com/obsidi
 #### Conceptualizing GitHub
 
 Minkova, M. (2018). Github as a digital library.
+
+### Guidebook on Git
+
+
 
 ### Teaching With GitHub
 
