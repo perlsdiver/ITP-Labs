@@ -9,8 +9,8 @@ This workshop was adapted from ITP Skills Lab materials developed by Zachary Mul
 
 I was hired later in Fall 2023 to rewrite and overhaul the Digital Humanities Infrastructure for Teaching Technology (DHRIFT) [lesson on HTML and CSS](https://app.dhrift.org/dynamic/?user=GC-DRI&repo=DRI24&file=html-css&instUser=GC-DRI&instRepo=GCDRI24Schedule) for the Graduate Center Digital Humanities Research Institute 2024, so I recommend using that resource if you are looking to learn about HTML and CSS.
 
-## Spring 2024: Introduction to Git and Github
+## Spring 2024: Introduction to Git and GitHub
 
 This workshop follows the Digital Humanities Infrastructure for Teaching Technology (DHRIFT) [lesson on Git and Github](https://app.dhrift.org/dynamic/?user=GC-DRI&repo=DRI24&file=git&instUser=GC-DRI&instRepo=GCDRI24Schedule) from the Graduate Center Digital Research Institute 2024. The code repo for this can be accessed here.
 
-Some supplemental materials for the workshop are contained within the [SPRING24-Git](https://github.com/perlsdiver/ITP-Labs/tree/main/Spring24-Git) folder, which I will update with feedback from workshop participants. One example is a [syllabus](https://github.com/perlsdiver/ITP-Labs/blob/main/Spring24-Git/HP23-syllabus.md) I converted from Microsoft Word to Markdown, then lightly edited.
+Some supplemental materials for the workshop are contained within the [SPRING24-Git](https://github.com/perlsdiver/ITP-Labs/tree/main/Spring24-Git) folder, which I will update with feedback from workshop participants. Two examples are the syllabi for classes I taught on [social welfare policy](SocialWelfarePolicy-Fall22-Syllabus.md) and [homelessness and social policy](HomelessnessPolicy-Summer23-Syllabus.md) I converted from Microsoft Word to Markdown, then lightly edited.
