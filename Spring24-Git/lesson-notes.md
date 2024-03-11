@@ -11,9 +11,9 @@ https://app.dhrift.org/dynamic/?user=GC-DRI&repo=DRI24&file=git&instUser=GC-DRI&
 
 ## Notes on Modifying Lesson Plan
 
-This lesson plan is designed with the assumption that participants are using their personal computers, or ones where they have full administrative access to install software and configure Git.
+This lesson plan is designed with the assumption that participants are using their personal computers, or ones where they have full administrative access to install software and configure Git. It is also designed with the assumption that participants have installed Visual Studio Code onto their computers.
 
-If they do not, the lesson can be modified to focus on Github, skipping the Git settings and staging a commit. In this instance, participants can use GitHub in their browser after creating a free educational account.
+If they do not have appropriate permissions in their computers, and do not have VS Code, the lesson can be modified to focus on Github, skipping the Git settings and staging a commit. In this instance, participants can use GitHub in their browser after creating a free educational account.
 
 ## Examples
 
