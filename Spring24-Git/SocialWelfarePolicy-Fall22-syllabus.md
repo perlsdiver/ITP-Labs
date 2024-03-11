@@ -1,4 +1,6 @@
-# SOCIAL WELFARE POLICY, SSW 701.50, Section 12
+# SOCIAL WELFARE POLICY, SSW 701.50
+
+## Section 12
 
 ## Fall 2022
 
@@ -323,7 +325,7 @@ U.S. Census Bureau. (ND). Public Assistance & Social Insurance Programs. <https:
 
 - Center for Budget & Policy Priorities (2022). Policy Basics: Temporary Assistance to Needy Families. <https://www.cbpp.org/sites/default/files/atoms/files/7-22-10tanf2.pdf>
 
-# Center for Budget & Policy Priorities (2022). Policy Basics: The Supplemental Nutrition Assistance Program (SNAP). <https://www.cbpp.org/research/food-assistance/the-supplemental-nutrition-assistance-program-snap>
+Center for Budget & Policy Priorities (2022). Policy Basics: The Supplemental Nutrition Assistance Program (SNAP). <https://www.cbpp.org/research/food-assistance/the-supplemental-nutrition-assistance-program-snap>
 
 - Center for Budget & Policy Priorities (2022). Policy Basics: Introduction to Medicaid. <https://www.cbpp.org/sites/default/files/atoms/files/policybasics-medicaid_0.pdf>
 
@@ -460,18 +462,17 @@ Stanley, J. (2021). Movie at the Ellipse: A Study in Fascist Propaganda. _Just S
 ### **UNIT IV. INFLUENCING SOCIAL POLICY**
  Examines how social workers can influence social policy, government basics, when government falters/threats to democracy, and tools to make social policy change.
 
-#### **CLASS 6: Guest Speaker: Tracy Jackson, LMSW. Silberman 2018 Alum (OML Method), and current Chief of Staff for NYS Assembly Member Debra Glick.  
-**
+#### **CLASS 6: Guest Speaker: Tracy Jackson, LMSW. Silberman 2018 Alum (OML Method), and current Chief of Staff for NYS Assembly Member Debra Glick.**
 
 ##### **A. Government Basics: How Government Works**
 
 Watch Crash Course in Government & Politics (all videos 6-10 mins):
 
-# Checks and Balances: Crash Course Government #3: <https://www.pbs.org/video/crash-course-government-3/>
+Checks and Balances: Crash Course Government #3: <https://www.pbs.org/video/crash-course-government-3/>
 
-# How a Bill Becomes a Law: Crash Course Government and Politics #9: [https://www.youtube.com/watch?v=66f4-NKEYz4](file:///C:\Users\Vicki\Dropbox%20%28Personal%29\Policy\Syllabus.Fall.2021\T701_Lens.2021.docx)
+How a Bill Becomes a Law: Crash Course Government and Politics #9: [https://www.youtube.com/watch?v=66f4-NKEYz4](file:///C:\Users\Vicki\Dropbox%20%28Personal%29\Policy\Syllabus.Fall.2021\T701_Lens.2021.docx)
 
-# Federalism: <https://www.youtube.com/watch?v=J0gosGXSgsI>
+Federalism: <https://www.youtube.com/watch?v=J0gosGXSgsI>
 
 Vox. (2019). How the Electoral College Works, and Why We Have One.
 
