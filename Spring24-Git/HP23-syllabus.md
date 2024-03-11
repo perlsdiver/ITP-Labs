@@ -1,13 +1,12 @@
-# HOMELESSNESS & SOCIAL POLICY
+# SSW 702.16.01 - HOMELESSNESS & SOCIAL POLICY
 
-# SSW 702.16.01
 ## SUMMER 2023
 
 **Instructor:** Ian G. Williams, LMSW (he/him/his)
 
 **Days:** Wednesdays, 6:00pm-9:30pm
 
-**Email:** igwillia [at] hunter [dot] cuny [dot] edu 
+**Email:** <igwillia [at] hunter [dot] cuny [dot] edu> 
 
 **Location:** Online
 
