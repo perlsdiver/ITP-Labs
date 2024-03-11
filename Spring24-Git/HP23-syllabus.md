@@ -29,7 +29,6 @@ You will spend three and a half hours in the virtual classroom each week _and_ o
 | **Educational Policy and** **Accreditation Standard** **(EPAS)** | **Practice Behaviors** | **Measures** |
 | --- | --- | --- |
 | 2a. Advance Human Rights and Social, Racial, Economic, and Environmental Justice | Examine and demonstrate understanding of different forms and mechanisms of oppression and discrimination as they relate to homelessness. Advocate for and engage in strategies to eliminate oppressive structural barriers to ensure that social resources, rights, and responsibilities are distributed equitably and that civil, political, economic, social, and cultural human rights are protected. | Demonstrated through oral presentations and written assignments. |
-| --- | --- | --- |
 | 5a & 5b. Engage in Policy Practice | Use social justice, anti-racist, and anti-oppressive lenses to analyze, formulate, and advocate for policies that advance human rights and social, racial, economic, and environmental justice in relation to homelessness. | Demonstrated through oral presentations and written assignments |
 
 ## COURSE EXPECTATIONS, ASSESSMENT & RESOURCES
