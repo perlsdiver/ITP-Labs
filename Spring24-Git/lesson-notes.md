@@ -1,7 +1,7 @@
 
 # Lesson Notes
 
-These are the instructions for the ITP Skills Lab on Git and Github.
+These are the instructions for the ITP Skills Lab on **Git** and **Github**, facilitated by @perlsdiver. Both are essential tools to today's digital infrastructure, and are useful to learn if you wish to develop a version control practice in you work, collaborate with others, and showcase your cumulative contributions over time. 
 
 ## Lesson Plan
 
@@ -13,21 +13,29 @@ https://app.dhrift.org/dynamic/?user=GC-DRI&repo=DRI24&file=git&instUser=GC-DRI&
 
 This lesson plan is designed with the assumption that participants are using their personal computers, or ones where they have full administrative access to install software and configure Git. It is also designed with the assumption that participants have installed Visual Studio Code onto their computers.
 
-If they do not have appropriate permissions in their computers, and do not have VS Code, the lesson can be modified to focus on Github, skipping the Git settings and staging a commit. In this instance, participants can use GitHub in their browser after creating a free educational account.
+If they do not have appropriate permissions in their computers, and do not have VS Code installed, the lesson can be modified to focus on Github, skipping the Git settings and staging a commit. In this instance, participants can use GitHub in their browser after creating a free educational account. The downside to this approach is that it may not clarify the underlying infrastructure of **Git** vs **GitHub**.
 
-## Examples
+## Additional Activities
 
-Some intertesting uses of GitHub that may give you some ideas
+Some intertesting uses of GitHub that may give you some ideas. You can practice some GitHub skills by adding to one of the following repositories:
 
-[Notation and Thought](https://github.com/kai-qu/notation), a collection of excerpts about notation systems and how they influence cognition.
+[Cloud Haiku](https://github.com/do-community/cloud_haiku), an open sourced poem about the cloud and digital infrastructure.
+
+[Tacofancy](https://github.com/dansinker/tacofancy), a collaborative taco recipe.
+
+## Other Interesting Repositories
 
 [Art of README](https://github.com/hackergrrl/art-of-readme), an entire repo and letter about writing a good README file.
 
-[Tacofancy](https://github.com/dansinker/tacofancy), a collaborative taco recipe.
+[Notation and Thought](https://github.com/kai-qu/notation), a collection of excerpts about notation systems and how they influence cognition.
+
+[On Missing Data Sets](https://github.com/MimiOnuoha/missing-datasets), a repository by Mimi Onuuna on data sets that are missing and the possible implications why. 
 
 [Hacker Zines](https://github.com/apertureless/hacker-zines), a collection of old hacker zines in text files.
 
 [chatGPT Source Watch](https://github.com/0xdevalias/chatgpt-source-watch), a tracker of changes to chatGPT's code base.
+
+[DAOstack Hackers Kit](https://github.com/daostack/DAOstack-Hackers-Kit), a resource for building  Decentralized Autonomous Organization using the DAOstack platform.
 
 For more examples please explore:
 
@@ -38,7 +46,11 @@ Schlagel, B. (2019). [Beyond Code: A Collection of Creative Uses of Github].(htt
 
 ## Tutorials
 
+
+
 Begelman, O. (2016). [Collaborative Writing on GitHub](https://oleb.net/blog/2016/02/collaborative-writing-on-github/)
+
+Tagliaferri, L. (2022). [How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
 
 Hogan, B. (2021).[How to Use Git to Manage Your Writing Project](https://www.digitalocean.com/community/tutorials/how-to-use-git-to-manage-your-writing-project). Digital Ocean.
 
@@ -67,7 +79,6 @@ Burton, R. M., Håkonsson, D. D., Nickerson, J., Puranam, P., Workiewicz, M., & 
 Mergel, I. (2015). Open collaboration in the public sector: The case of social coding on GitHub. Government Information Quarterly, 32(4), 464-472.
 
 O’Neil, M., Muselli, L., Cai, X., & Zacchiroli, S. (2022). Co-producing industrial public goods on GitHub: Selective firm cooperation, volunteer-employee labour and participation inequality. New Media & Society, 14614448221090474.
-
 
 Al-Rubaye, A., & Sukthankar, G. (2020). A popularity-based model of the diffusion of innovation on GitHub. In Proceedings of the 2018 Conference of the Computational Social Science Society of the Americas 1 (pp. 165-178). Springer International Publishing.
 
