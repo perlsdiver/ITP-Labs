@@ -17,6 +17,8 @@ If they do not, the lesson can be modified to focus on Github, skipping the Git 
 
 ## Examples
 
+Some intertesting uses of GitHub that may give you some ideas
+
 [Notation and Thought](https://github.com/kai-qu/notation), a collection of excerpts about notation systems and how they influence cognition.
 
 [Art of README](https://github.com/hackergrrl/art-of-readme), an entire repo and letter about writing a good README file.
@@ -25,11 +27,14 @@ If they do not, the lesson can be modified to focus on Github, skipping the Git 
 
 [Hacker Zines](https://github.com/apertureless/hacker-zines), a collection of old hacker zines in text files.
 
+[chatGPT Source Watch](https://github.com/0xdevalias/chatgpt-source-watch), a tracker of changes to chatGPT's code base.
+
 For more examples please explore:
 
 [Repos Beyond Code](https://www.are.na/brendan-schlagel/repos-beyond-code)
 
 Schlagel, B. (2019). [Beyond Code: A Collection of Creative Uses of Github].(https://www.brendanschlagel.com/2018/09/28/repos-beyond-code-a-collection-of-creative-uses-of-github/)
+
 
 ## Tutorials
 
