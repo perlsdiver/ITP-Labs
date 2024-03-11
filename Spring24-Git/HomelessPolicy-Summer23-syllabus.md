@@ -1,13 +1,12 @@
-# HOMELESSNESS & SOCIAL POLICY
+# SSW 702.16.01 - HOMELESSNESS & SOCIAL POLICY
 
-# SSW 702.16.01
 ## SUMMER 2023
 
 **Instructor:** Ian G. Williams, LMSW (he/him/his)
 
 **Days:** Wednesdays, 6:00pm-9:30pm
 
-**Email:** igwillia [at] hunter [dot] cuny [dot] edu 
+**Email:** <igwillia [at] hunter [dot] cuny [dot] edu> 
 
 **Location:** Online
 
@@ -30,7 +29,6 @@ You will spend three and a half hours in the virtual classroom each week _and_ o
 | **Educational Policy and** **Accreditation Standard** **(EPAS)** | **Practice Behaviors** | **Measures** |
 | --- | --- | --- |
 | 2a. Advance Human Rights and Social, Racial, Economic, and Environmental Justice | Examine and demonstrate understanding of different forms and mechanisms of oppression and discrimination as they relate to homelessness. Advocate for and engage in strategies to eliminate oppressive structural barriers to ensure that social resources, rights, and responsibilities are distributed equitably and that civil, political, economic, social, and cultural human rights are protected. | Demonstrated through oral presentations and written assignments. |
-| --- | --- | --- |
 | 5a & 5b. Engage in Policy Practice | Use social justice, anti-racist, and anti-oppressive lenses to analyze, formulate, and advocate for policies that advance human rights and social, racial, economic, and environmental justice in relation to homelessness. | Demonstrated through oral presentations and written assignments |
 
 ## COURSE EXPECTATIONS, ASSESSMENT & RESOURCES
@@ -228,7 +226,7 @@ Our overall goal is to synthesize practice wisdom, policy expertise, and an ongo
 | --- | --- | --- | --- |
 | 1   | 5/31 | Introduction: Social Work & Homelessness, Course Overview, Ground Rules, Group Structures & Assignments | Hypothesis basics, Goal-setting |
 | 2   | 6/7 | Open Data: Viewing and Constructing Homelessness From the Dashboard | NYC Open Data/betaNYC workshop Group assignments |
-| 3   | 6/14 | Housing, Property, and the Urban Commons: From Commodities To Infrastructures of Care | Guest lecturer: Frank Morales_Letter grade request cutoff (last date to request)_ |
+| 3   | 6/14 | Housing, Property, and the Urban Commons: From Commodities To Infrastructures of Care | Guest lecturer: Frank Morales_Letter grade request cutoff (last date to request) |
 | 4   | 6/21 | Biopolitics, Structural Violence, and Bureaucracy: ‘Modern’ Homelessness and Neoliberal Welfare States | Library workshop w/ Adina Mulliken |
 | NO CLASS | 6/28 | NO CLASS | Journal entry #1 due in BlackBoard |
 | 5   | 7/5 | Spatial Logics: Housing, Homelessness, and Public Space | Guest lecturer: Eric Goldfischer, Ph.D.<br><br>Group topic proposal due 7/7 by email |
