@@ -1,13 +1,26 @@
 
-# Lesson Notes
+# Intro to Git and GitHub
+(they aren't the same thing)
+
+## Description
+
+Introduction To Git and GitHub | Monday, March 11 @ 6:30pm, in-person
+
+How do you organize digital information? How do you backup your files and data? Do you have folders full of documents like “draft_1”, “draft_final”, “draft_finalfinal,” and “draft_reallytrulyfinal”? Do you want to explore others’ work and showcase your own? Come learn the concepts of version control, the most basic steps of using git version-control software, and GitHub, a free web-based git repository hosting service. This introductory level lab will guide you through the basic structure of git on your computer and GitHub.com on the cloud. You will learn the basics: what a repository is, why you would use one to back up your code (or writing), and the basic commands that allow you to do so. It will also set you up to continue learning more about git and version control as you develop a digital project.
+
+## Facilitator's Note
 
 These are the instructions for the ITP Skills Lab on **Git** and **Github**, facilitated by [@perlsdiver](https://www.github.com/perlsdiver). Both are essential tools to today's digital infrastructure, and are useful to learn if you wish to develop a version control practice in you work, collaborate with others, and showcase your cumulative contributions over time. 
 
-## Lesson Plan
+## Learning Objectives
 
-We will use this workshop as the primary pedagogical tool, the Digital Humanities Infrastructure for Teaching Technology, developed by the [Graduate Center Digital Initiatives](https://github.com/DASSL/Gradebook):
-
-https://app.dhrift.org/dynamic/?user=GC-DRI&repo=DRI24&file=git&instUser=GC-DRI&instRepo=GCDRI24Schedule
+- Develop conceptual model of what version control is and why it is useful for digital projects.
+- Familiarize participants with Git and Github.
+- Create GitHub student accounts.
+- Practice some fundamentals of version control.
+- Explore a diverse mix of GitHub repositories.
+- Envision possible uses for ITP projects.
+- Leave equipped to practice further with self-paced curriculum (DHRIFT).
 
 ## Introductions
 
@@ -33,13 +46,19 @@ Let's take a few minutes to reflect on our current practices. Let's answer these
 - Have you ever used Git before?
 - Have you ever used GitHub before?
 
+## Materials and Lesson Plan
+
+We will use this workshop as the primary pedagogical tool, the Digital Humanities Infrastructure for Teaching Technology, developed by the [Graduate Center Digital Initiatives](https://github.com/DASSL/Gradebook):
+
+https://app.dhrift.org/dynamic/?user=GC-DRI&repo=DRI24&file=git&instUser=GC-DRI&instRepo=GCDRI24Schedule
+
 ## Notes on Modifying Lesson Plan
 
 This lesson plan is designed to teach you the fundamentals of Git and Github. The materials are designed with the assumption that participants are using their personal computers, or ones where they have full administrative access to install software and configure Git. It is also designed with the assumption that participants have installed Visual Studio Code onto their computers.
 
 If they do not have appropriate permissions in their computers, and do not have VS Code installed, the lesson can be modified to focus on Github, skipping the Git settings and staging a commit. In this instance, participants can use GitHub in their browser after creating a free educational account. The downside to this approach is that it may not clarify the underlying infrastructure of **Git** vs **GitHub**.
 
-## Additional Activities
+## Community-Sourced Repositories
 
 Some intertesting uses of GitHub that may give you some ideas. You can practice some GitHub skills by adding to one of the following repositories:
 
@@ -50,6 +69,10 @@ Some intertesting uses of GitHub that may give you some ideas. You can practice 
 [Mutual Aid Networks](https://github.com/groundgamela/mutual-aid-networks), a collaborative repository of local mutual aid networks.
 
 ## Other Interesting Repositories
+
+This is a non-exhaustive list of some interesting repositories I found while doing research for this skills lab.
+
+[Awesome ADHD](https://github.com/mrseth01/awesome-adhd), a curated list of ADHD-related articles, tools, and resources.
 
 [Gradebook](https://github.com/DASSL/Gradebook), an open sourced gradebook tool for educators, designed to facilite tracking attendance.
 
