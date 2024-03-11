@@ -95,10 +95,6 @@ Hatcher, D. (2023). [Obsidian Git For Beginners](https://dannyhatcher.com/obsidi
 
 Minkova, M. (2018). Github as a digital library.
 
-### Guidebook on Git
-
-
-
 ### Teaching With GitHub
 
 Tu, Y. C., Terragni, V., Tempero, E., Shakil, A., Meads, A., Giacaman, N., ... & Blincoe, K. (2022, February). Github in the classroom: Lessons learnt. In Proceedings of the 24th Australasian Computing Education Conference (pp. 163-172).
