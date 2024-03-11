@@ -226,7 +226,7 @@ Our overall goal is to synthesize practice wisdom, policy expertise, and an ongo
 | --- | --- | --- | --- |
 | 1   | 5/31 | Introduction: Social Work & Homelessness, Course Overview, Ground Rules, Group Structures & Assignments | Hypothesis basics, Goal-setting |
 | 2   | 6/7 | Open Data: Viewing and Constructing Homelessness From the Dashboard | NYC Open Data/betaNYC workshop Group assignments |
-| 3   | 6/14 | Housing, Property, and the Urban Commons: From Commodities To Infrastructures of Care | Guest lecturer: Frank Morales_Letter grade request cutoff (last date to request)_ |
+| 3   | 6/14 | Housing, Property, and the Urban Commons: From Commodities To Infrastructures of Care | Guest lecturer: Frank Morales_Letter grade request cutoff (last date to request) |
 | 4   | 6/21 | Biopolitics, Structural Violence, and Bureaucracy: ‘Modern’ Homelessness and Neoliberal Welfare States | Library workshop w/ Adina Mulliken |
 | NO CLASS | 6/28 | NO CLASS | Journal entry #1 due in BlackBoard |
 | 5   | 7/5 | Spatial Logics: Housing, Homelessness, and Public Space | Guest lecturer: Eric Goldfischer, Ph.D.<br><br>Group topic proposal due 7/7 by email |
