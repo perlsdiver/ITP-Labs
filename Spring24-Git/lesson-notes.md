@@ -44,9 +44,11 @@ Hogan, B. (2021).[How to Use Git to Manage Your Writing Project](https://www.dig
 
 Duke Intelligent Learning Lab (2024). [Teaching With GitHub](https://sites.duke.edu/ilearninglab/teaching-with-github/)
 
+Hatcher, D. (2023). [Obsidian Git For Beginners](https://dannyhatcher.com/obsidian-git-for-beginners/)
+
 ## Readings and Theory
 
-## Conceptualizing GitHub
+#### Conceptualizing GitHub
 
 Minkova, M. (2018). Github as a digital library.
 
@@ -65,3 +67,9 @@ Burton, R. M., Håkonsson, D. D., Nickerson, J., Puranam, P., Workiewicz, M., & 
 Mergel, I. (2015). Open collaboration in the public sector: The case of social coding on GitHub. Government Information Quarterly, 32(4), 464-472.
 
 O’Neil, M., Muselli, L., Cai, X., & Zacchiroli, S. (2022). Co-producing industrial public goods on GitHub: Selective firm cooperation, volunteer-employee labour and participation inequality. New Media & Society, 14614448221090474.
+
+Al-Rubaye, A., & Sukthankar, G. (2020). A popularity-based model of the diffusion of innovation on GitHub. In Proceedings of the 2018 Conference of the Computational Social Science Society of the Americas 1 (pp. 165-178). Springer International Publishing.
+
+Kochhar, P. S., Kalliamvakou, E., Nagappan, N., Zimmermann, T., & Bird, C. (2019). Moving from closed to open source: Observations from six transitioned projects to GitHub. IEEE Transactions on Software Engineering, 47(9), 1838-1856.
+
+Eibl, G., & Thurnay, L. (2023, July). The promises and perils of open source software release and usage by government–evidence from GitHub and literature. In Proceedings of the 24th Annual International Conference on Digital Government Research (pp. 180-190).
