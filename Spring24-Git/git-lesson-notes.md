@@ -58,6 +58,10 @@ This lesson plan is designed to teach you the fundamentals of Git and Github. Th
 
 If they do not have appropriate permissions in their computers, and do not have VS Code installed, the lesson can be modified to focus on Github, skipping the Git settings and staging a commit. In this instance, participants can use GitHub in their browser after creating a free educational account. The downside to this approach is that it may not clarify the underlying infrastructure of **Git** vs **GitHub**.
 
+## Sample Syllabi
+
+I converted two syllabi for classes I previously taught. They can be found in the [Samples](/Samples/) folder.
+
 ## Community-Sourced Repositories
 
 Some intertesting uses of GitHub that may give you some ideas. You can practice some GitHub skills by adding to one of the following repositories:
