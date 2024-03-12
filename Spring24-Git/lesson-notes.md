@@ -72,6 +72,8 @@ Some intertesting uses of GitHub that may give you some ideas. You can practice 
 
 This is a non-exhaustive list of some interesting repositories I found while doing research for this skills lab.
 
+[GitHub Innovation Graph](https://github.com/github/innovationgraph), a repository that tracks, from 2020 onwards, the diffusion and growth of software development activity across the platform.
+
 [Awesome ADHD](https://github.com/mrseth01/awesome-adhd), a curated list of ADHD-related articles, tools, and resources.
 
 [Gradebook](https://github.com/DASSL/Gradebook), an open sourced gradebook tool for educators, designed to facilite tracking attendance.
