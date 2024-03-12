@@ -5,7 +5,7 @@ This repository contains information and exercises for the [Certificate Program 
 
 ## Fall 2023: Introduction to HMTL & CSS
 
-This workshop was adapted from ITP Skills Lab materials developed by Zachary Mulhbauer [@zmuhls](https://github.com/zmuhls), PhD Candidate in English at the CUNY Graduate Center Coordinator for Education & Support for OpenCUNY. Slides for the workshop are contained within the "Fall23-HTMLCSS" folder.
+This workshop was adapted from ITP Skills Lab materials developed by Zachary Mulhbauer [@zmuhls](https://github.com/zmuhls), PhD Candidate in English at the CUNY Graduate Center Coordinator for Education & Support for OpenCUNY. Slides for the workshop are contained within the "Fall23-HTMLCSS" folder. It aimed to provide an introduction to HTML and CSS as fundamental building blocks of the Internet.
 
 I was hired later in Fall 2023 to rewrite and overhaul the Digital Humanities Infrastructure for Teaching Technology (DHRIFT) [lesson on HTML and CSS](https://app.dhrift.org/dynamic/?user=GC-DRI&repo=DRI24&file=html-css&instUser=GC-DRI&instRepo=GCDRI24Schedule) for the Graduate Center Digital Humanities Research Institute 2024, so I recommend using that resource if you are looking to learn about HTML and CSS.
 
