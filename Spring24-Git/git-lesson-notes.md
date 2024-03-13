@@ -1,3 +1,5 @@
+![Photo of a version control system chalkboard image](/Spring24-Git/Media/version-control-chalk.jpg)
+
 
 # Intro to Git and GitHub
 (they aren't the same thing)

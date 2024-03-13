@@ -1,3 +1,6 @@
+
+![ITP Logo](/Media/itp_logo.png)
+
 # ITP Labs
 Skills Labs for Interactive Technology and Pedagogy.
 
