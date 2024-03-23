@@ -1,6 +1,8 @@
 # SSW 702.16.01 - HOMELESSNESS & SOCIAL POLICY
 
-## SUMMER 2023
+## Silberman School of Social Work at Hunter College
+
+## Summer 2023
 
 **Instructor:** Ian G. Williams, LMSW (he/him/his)
 
