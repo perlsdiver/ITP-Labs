@@ -4,10 +4,7 @@
 
 
 
-
-(image)
-
-
+See slides
 
 ### What is Git?
 
@@ -36,4 +33,4 @@ Github is a platform for version control that uses Git. Owned by Microsoft, it i
 ### What kinds of research and teaching uses might Github provide?
 
 
-
+### Activities
